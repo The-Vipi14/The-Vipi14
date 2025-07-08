@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vipin
 
-<!--
-**The-Vipi14/The-Vipi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer currently working on building an **E-commerce website**. I enjoy learning about web technologies and creating practical, user-focused applications.
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **An E-commerce Website**
+- 🌱 I’m currently learning: **Full-Stack Web Development**
+- 📫 How to reach me: "vipinbhardwal286@gmail.com"
+- ⚡ Fun fact: I love building real-world projects that solve everyday problems!
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: `C` `C++` `Java`
+- 🌐 Web:`HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
+- 🛠️ Tools: `Git` `GitHub` `VS Code`
+
+## 📊 GitHub Stats
+
+![Vipin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=The-Vipi14&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Vipi14&layout=compact&theme=radical)
+
+
+Thanks for stopping by! 🚀
