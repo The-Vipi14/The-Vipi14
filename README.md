@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently working on bu
 
 - 💻 Languages: `C` `C++` `Java`
 - 🌐 Web:`HTML` `CSS` `JavaScript` `Node.js` `Express` `MongoDB`
-- 🛠️ Tools: `Git` `GitHub` `VS Code`
+- 🛠️ Tools: `Git` `GitHub` `VS Code` `postman`
 
 ## 📊 GitHub Stats
 
