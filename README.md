@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vipin Bhardwal
+# 👋 Hi, I'm Vipin 
 
 **Full-Stack Developer | JavaScript | React.js | Node.js | MongoDB**
 
