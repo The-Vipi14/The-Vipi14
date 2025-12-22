@@ -3,7 +3,7 @@
 **Full-Stack Developer | JavaScript | React.js | Node.js | MongoDB**
 
 I’m a passionate **Full-Stack Developer** focused on building **modern, responsive, and user-friendly web applications**.  
-I specialize in creating **scalable, maintainable, and efficient solutions** that solve real-world problems.
+I specialize in creating **scalable, maintainable, and efficient solutions** .
 
 I believe development is not just about writing code — it’s about **building experiences**. From **clean UI/UX** to **seamless backend integration**, I aim to deliver fast, intuitive, and high-quality applications.
 
@@ -13,7 +13,6 @@ I believe development is not just about writing code — it’s about **building
 
 - 📍 Based in **India**
 - ✉️ Contact: [vipinbhardwal286@gmail.com](mailto:vipinbhardwal286@gmail.com)
-- 🧠 Currently learning: **Next.js & Advanced React Patterns**
 - 🤝 Open to collaborating on:
   - Full-stack applications
   - E-commerce platforms
