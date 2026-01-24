@@ -12,7 +12,7 @@ I believe development is not just about writing code — it’s about **building
 ## 🌍 About Me
 
 - 📍 Based in **India**
-- ✉️ Contact: [vipinbhardwal286@gmail.com](mailto:vipinbhardwal286@gmail.com)
+- ✉️ Contact: [vipinbhardwal286@gmail.com](mailto:vipin.wdev@gmail.com)
 - 🤝 Open to collaborating on:
   - Full-stack applications
   - E-commerce platforms
