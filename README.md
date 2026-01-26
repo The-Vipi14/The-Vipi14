@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vipin 
 
-**Full-Stack Developer | JavaScript | React.js | Node.js | Express | MongoDB**
+**Full-Stack Developer| MERN STACK Developer | JavaScript | React.js | Node.js | Express | MongoDB**
 
 I’m a passionate **Full-Stack Developer** focused on building **modern, responsive, and user-friendly web applications**.  
 I specialize in creating **scalable, maintainable, and efficient solutions** .
