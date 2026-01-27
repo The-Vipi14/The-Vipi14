@@ -56,7 +56,7 @@ I believe development is not just about writing code — it’s about **building
   <a href="https://www.linkedin.com/in/vipin-bhardwal/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
-  <a href="mailto:vipin.wdev.com">
+  <a href="vipin.wdev.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50" />
   </a>
 </p>
