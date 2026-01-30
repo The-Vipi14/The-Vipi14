@@ -11,7 +11,6 @@ I believe development is not just about writing code — it’s about **building
 
 ## 🌍 About Me
 
-- 📍 Based in **India**
 - ✉️ Contact: [vipin.wdev@gmail.com](mailto:vipin.wdev@gmail.com)
 - 🤝 Open to collaborating on:
   - Full-stack applications
