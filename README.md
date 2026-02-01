@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Building+Real-World+Projects" />
 </p>
 
 ---
