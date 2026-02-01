@@ -1,38 +1,34 @@
-# 👋 Hi, I'm Vipin 
+<h1 align="center">Hi 👋, I'm Vipin</h1>
+<h3 align="center">Full-Stack Developer | MERN Stack</h3>
 
-**Full-Stack Developer| MERN STACK Developer | JavaScript | React.js | Node.js | Express | MongoDB**
-
-I’m a passionate **Full-Stack Developer** focused on building **modern, responsive, and user-friendly web applications**.  
-I specialize in creating **scalable, maintainable, and efficient solutions** .
-
-I believe development is not just about writing code — it’s about **building experiences**. From **clean UI/UX** to **seamless backend integration**, I aim to deliver fast, intuitive, and high-quality applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Real-World+Projects" />
+</p>
 
 ---
 
-## 🌍 About Me
+## 👨‍💻 About Me
 
-- ✉️ Contact: [vipin.wdev@gmail.com](mailto:vipin.wdev@gmail.com)
-- 🤝 Open to collaborating on:
-  - Full-stack applications
-  - E-commerce platforms
-  - Portfolio websites
-  - Dashboards & performance optimization
-- ⚡ Fun fact: *I enjoy building real-world projects that solve everyday problems*
+- 🚀 Full-Stack Developer focused on **scalable & modern web apps**
+- 🧠 Strong in **React, Node.js, Express & MongoDB**
+- 🎯 Love building **real-world, production-ready projects**
+- 🤝 Open to collaboration & opportunities
+- ✉️ Contact: **[vipin.wdev@gmail.com](mailto:vipin.wdev@gmail.com)**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
 
-### Frontend
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
-### Backend & Database
+### ⚙️ Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-### Tools & Platforms
+### 🧰 Tools
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vite" />
 
 ---
@@ -40,22 +36,44 @@ I believe development is not just about writing code — it’s about **building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Vipi14&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Vipi14&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Vipi14&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=The-Vipi14&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Connect with Me
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-Vipi14&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🏨 **Hotel Booking System (MERN)**
+- 🧑‍💼 **Admin Dashboard (React + API)**
+- 🎥 **Course Playlist Platform**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vipin-bhardwal/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="vipin.wdev.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <a href="mailto:vipin.wdev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>“Consistency beats talent when talent isn’t consistent.”</i>
 </p>
